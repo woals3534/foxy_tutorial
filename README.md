@@ -10,8 +10,8 @@
   * [terminal 사용법](https://m.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6390061632)
   * github 사용법
     ```bash
-    git config --global user.name "jeyong"
-    git config --global user.email "support@gmail.com"
+    git config --global user.name "woals3534"
+    git config --global user.email "woals3534@naver.com"
     ```
 * CLI 도구
   * [환경설정](./환경설정.md)
